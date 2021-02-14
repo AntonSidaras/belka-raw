@@ -1,6 +1,18 @@
 @font-face {
-  src: local('Gilroy'), url(../vendor/fonts/Gilroy-Regular.woff) format('woff');
-  font-family: 'Gilroy';
+  src: local('Cormorant garamond'), url(../vendor/fonts/CormorantGaramond-Bold.woff) format('woff');
+  font-family: 'Cormorant garamond';
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  src: local('Jonathan'), url(../vendor/fonts/Jonathan.woff) format('woff');
+  font-family: 'Jonathan';
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  src: local('Jonathan SS'), url(../vendor/fonts/JonathanSS.woff) format('woff');
+  font-family: 'Jonathan SS';
   font-weight: normal;
   font-style: normal;
 }

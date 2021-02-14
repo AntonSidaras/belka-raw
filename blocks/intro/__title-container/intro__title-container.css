@@ -1,0 +1,9 @@
+.intro__title-container{
+  margin: 200px auto 200px auto;
+  padding: 0;
+  width: 80%;
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-content: center;
+}

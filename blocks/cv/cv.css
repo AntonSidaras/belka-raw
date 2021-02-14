@@ -1,0 +1,7 @@
+.cv{
+  width: 100%;
+  height: 200vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url(../../images/cv/cv.jpg);
+}

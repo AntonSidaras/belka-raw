@@ -1,3 +1,9 @@
 @import url(../vendor/normalize.css);
 @import url(../vendor/fonts.css);
 @import url(../blocks/page/page.css);
+@import url(../blocks/intro/into.css);
+@import url(../blocks/intro/__title/intro__title.css);
+@import url(../blocks/intro/__title-container/intro__title-container.css);
+@import url(../blocks/cv/cv.css);
+@import url(../blocks/text-overlay/text-overlay.css);
+@import url(../blocks/text-overlay/_place/text-overlay_place_intro.css);

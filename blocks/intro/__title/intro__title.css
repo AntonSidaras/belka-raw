@@ -1,0 +1,11 @@
+.intro__title{
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 120pt;
+  line-height: 120pt;
+  font-weight: bold;
+  font-style: normal;
+  color: #f6e8e5;
+}
