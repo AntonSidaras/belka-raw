@@ -5,5 +5,9 @@
 @import url(../blocks/intro/__title/intro__title.css);
 @import url(../blocks/intro/__title-container/intro__title-container.css);
 @import url(../blocks/cv/cv.css);
+@import url(../blocks/cv/__main-grid/cv__main-grid.css);
+@import url(../blocks/cv/__upper-grid/cv__upper-grid.css);
+@import url(../blocks/cv/__upper-img/cv__upper-img.css);
+@import url(../blocks/cv/__lower-grid/cv__lower-grid.css);
 @import url(../blocks/text-overlay/text-overlay.css);
 @import url(../blocks/text-overlay/_place/text-overlay_place_intro.css);
