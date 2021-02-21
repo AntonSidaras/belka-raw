@@ -1,5 +1,10 @@
 .cv{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  list-style-type: none;
   background-size: cover;
   background-repeat: no-repeat;
+  background-position: 50%;
   background-image: url(../../images/cv/cv.jpg);
 }

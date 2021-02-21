@@ -1,8 +1,8 @@
 .cv__main-grid{
+  width: 80%;
   display: grid;
   grid-template-columns: 1fr;
   grid-template-rows: 1fr;
-  grid-auto-flow: column;
   justify-content: space-between;
   align-content: center;
 }
